@@ -11,14 +11,17 @@ themselves, can be seen and explored.
 
 ## Repositories
 
-- **[klein-bottle](https://github.com/orientability/klein-bottle)** — the Klein
-  bottle in its classic immersed "bottle" shape, a closed one-sided surface
-  that cannot exist in three dimensions without passing through itself,
-  visualized with an interactive Python/ModernGL renderer.
+- **[boy-surface](https://github.com/orientability/boy-surface)** — Boy's
+  surface, an immersion of the real projective plane with no pinch points and
+  three-fold symmetry, visualized with an interactive Python/ModernGL renderer.
 - **[ida-surface](https://github.com/orientability/ida-surface)** — the Ida
   surface, a non-orientable topological surface that is a three-dimensional
   shadow of a four-dimensional Klein bottle, visualized with an interactive
   Python/ModernGL renderer.
+- **[klein-bottle](https://github.com/orientability/klein-bottle)** — the Klein
+  bottle in its classic immersed "bottle" shape, a closed one-sided surface
+  that cannot exist in three dimensions without passing through itself,
+  visualized with an interactive Python/ModernGL renderer.
 
 ## About
 

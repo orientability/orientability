@@ -22,6 +22,10 @@ themselves, can be seen and explored.
   bottle in its classic immersed "bottle" shape, a closed one-sided surface
   that cannot exist in three dimensions without passing through itself,
   visualized with an interactive Python/ModernGL renderer.
+- **[roman-surface](https://github.com/orientability/roman-surface)** — the
+  Roman (Steiner) surface, an immersion of the real projective plane with six
+  pinch points and tetrahedral symmetry, visualized with an interactive
+  Python/ModernGL renderer.
 
 ## About
 
